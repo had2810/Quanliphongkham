@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "D:\\VISUAL STUDIO\\HocWindowsForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|d:\\visual studio\\hocwindowsform\\frm_login\\frm_setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|solutionrelative:frm_login\\frm_setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|d:\\visual studio\\hocwindowsform\\frm_login\\frm_setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|solutionrelative:frm_login\\frm_setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|d:\\visual studio\\hocwindowsform\\frm_login\\frm_setting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|solutionrelative:frm_login\\frm_setting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|d:\\visual studio\\hocwindowsform\\frm_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|solutionrelative:frm_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|d:\\visual studio\\hocwindowsform\\frm_login\\frm_saudangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|solutionrelative:frm_login\\frm_saudangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|d:\\visual studio\\hocwindowsform\\frm_login\\frm_saudangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|solutionrelative:frm_login\\frm_saudangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|d:\\visual studio\\hocwindowsform\\frm_login\\frm_tongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|solutionrelative:frm_login\\frm_tongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|d:\\visual studio\\hocwindowsform\\frm_login\\frm_danhsachbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|solutionrelative:frm_login\\frm_danhsachbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|d:\\visual studio\\hocwindowsform\\frm_login\\frm_doanhhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|solutionrelative:frm_login\\frm_doanhhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|d:\\visual studio\\hocwindowsform\\frm_login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D93EF1-F1AF-43F6-ACD4-949659F544C6}|frm_login\\frm_login.csproj|solutionrelative:frm_login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frm_setting.Designer.cs",
-              "DocumentMoniker": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_setting.Designer.cs",
-              "RelativeDocumentMoniker": "frm_login\\frm_setting.Designer.cs",
-              "ToolTip": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_setting.Designer.cs",
-              "RelativeToolTip": "frm_login\\frm_setting.Designer.cs",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAawL8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:42:05.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frm_setting.cs",
-              "DocumentMoniker": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_setting.cs",
-              "RelativeDocumentMoniker": "frm_login\\frm_setting.cs",
-              "ToolTip": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_setting.cs",
-              "RelativeToolTip": "frm_login\\frm_setting.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:41:42.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frm_saudangnhap.cs",
-              "DocumentMoniker": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_saudangnhap.cs",
-              "RelativeDocumentMoniker": "frm_login\\frm_saudangnhap.cs",
-              "ToolTip": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_saudangnhap.cs",
-              "RelativeToolTip": "frm_login\\frm_saudangnhap.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAawF4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:39:49.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frm_saudangnhap.cs [Design]",
-              "DocumentMoniker": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_saudangnhap.cs",
-              "RelativeDocumentMoniker": "frm_login\\frm_saudangnhap.cs",
-              "ToolTip": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_saudangnhap.cs [Design]",
-              "RelativeToolTip": "frm_login\\frm_saudangnhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:39:47.529Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frm_tongquan.cs [Design]",
-              "DocumentMoniker": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_tongquan.cs",
-              "RelativeDocumentMoniker": "frm_login\\frm_tongquan.cs",
-              "ToolTip": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_tongquan.cs [Design]",
-              "RelativeToolTip": "frm_login\\frm_tongquan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:30:17.698Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\Program.cs",
-              "RelativeDocumentMoniker": "frm_login\\Program.cs",
-              "ToolTip": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\Program.cs",
-              "RelativeToolTip": "frm_login\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:26:23.677Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frm_danhsachbenhnhan.cs [Design]",
-              "DocumentMoniker": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_danhsachbenhnhan.cs",
-              "RelativeDocumentMoniker": "frm_login\\frm_danhsachbenhnhan.cs",
-              "ToolTip": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_danhsachbenhnhan.cs [Design]",
-              "RelativeToolTip": "frm_login\\frm_danhsachbenhnhan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:25:34.359Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frm_doanhhthu.cs [Design]",
-              "DocumentMoniker": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_doanhhthu.cs",
-              "RelativeDocumentMoniker": "frm_login\\frm_doanhhthu.cs",
-              "ToolTip": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_doanhhthu.cs [Design]",
-              "RelativeToolTip": "frm_login\\frm_doanhhthu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:25:23.605Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frm_setting.cs [Design]",
-              "DocumentMoniker": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_setting.cs",
-              "RelativeDocumentMoniker": "frm_login\\frm_setting.cs",
-              "ToolTip": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\frm_setting.cs [Design]",
-              "RelativeToolTip": "frm_login\\frm_setting.cs [Design]",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\Form1.cs",
+              "RelativeDocumentMoniker": "frm_login\\Form1.cs",
+              "ToolTip": "D:\\VISUAL STUDIO\\HocWindowsForm\\frm_login\\Form1.cs",
+              "RelativeToolTip": "frm_login\\Form1.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAiwJcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:14:31.037Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-04T07:14:00.41Z",
+              "EditorCaption": ""
             }
           ]
         }

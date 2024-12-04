@@ -28,11 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_danhsachbenhnhan));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_danhsachbenhnhan));
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
+            this.btn_taitep = new Guna.UI2.WinForms.Guna2Button();
             this.btn_sua = new Guna.UI2.WinForms.Guna2Button();
             this.guna2ComboBox1 = new Guna.UI2.WinForms.Guna2ComboBox();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
@@ -49,8 +51,6 @@
             this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
-            this.btn_taitep = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dta_dsbenhnhan)).BeginInit();
             this.SuspendLayout();
@@ -71,6 +71,42 @@
             this.guna2Panel1.Name = "guna2Panel1";
             this.guna2Panel1.Size = new System.Drawing.Size(1040, 68);
             this.guna2Panel1.TabIndex = 0;
+            // 
+            // guna2Button2
+            // 
+            this.guna2Button2.BorderColor = System.Drawing.Color.Gray;
+            this.guna2Button2.BorderThickness = 1;
+            this.guna2Button2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button2.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button2.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2Button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.guna2Button2.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button2.Image")));
+            this.guna2Button2.Location = new System.Drawing.Point(820, 12);
+            this.guna2Button2.Name = "guna2Button2";
+            this.guna2Button2.Size = new System.Drawing.Size(63, 37);
+            this.guna2Button2.TabIndex = 6;
+            this.guna2Button2.Text = "Lọc";
+            // 
+            // btn_taitep
+            // 
+            this.btn_taitep.BorderColor = System.Drawing.Color.Gray;
+            this.btn_taitep.BorderThickness = 1;
+            this.btn_taitep.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_taitep.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btn_taitep.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btn_taitep.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btn_taitep.FillColor = System.Drawing.Color.Transparent;
+            this.btn_taitep.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btn_taitep.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn_taitep.Image = ((System.Drawing.Image)(resources.GetObject("btn_taitep.Image")));
+            this.btn_taitep.ImageSize = new System.Drawing.Size(30, 30);
+            this.btn_taitep.Location = new System.Drawing.Point(715, 12);
+            this.btn_taitep.Name = "btn_taitep";
+            this.btn_taitep.Size = new System.Drawing.Size(63, 37);
+            this.btn_taitep.TabIndex = 5;
             // 
             // btn_sua
             // 
@@ -240,6 +276,7 @@
             this.dta_dsbenhnhan.ThemeStyle.RowsStyle.Height = 50;
             this.dta_dsbenhnhan.ThemeStyle.RowsStyle.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.dta_dsbenhnhan.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            this.dta_dsbenhnhan.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dta_dsbenhnhan_CellContentClick);
             // 
             // Column1
             // 
@@ -301,42 +338,6 @@
             this.Column8.HeaderText = "Service";
             this.Column8.MinimumWidth = 6;
             this.Column8.Name = "Column8";
-            // 
-            // guna2Button2
-            // 
-            this.guna2Button2.BorderColor = System.Drawing.Color.Gray;
-            this.guna2Button2.BorderThickness = 1;
-            this.guna2Button2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button2.FillColor = System.Drawing.Color.Transparent;
-            this.guna2Button2.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.guna2Button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Button2.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button2.Image")));
-            this.guna2Button2.Location = new System.Drawing.Point(820, 12);
-            this.guna2Button2.Name = "guna2Button2";
-            this.guna2Button2.Size = new System.Drawing.Size(63, 37);
-            this.guna2Button2.TabIndex = 6;
-            this.guna2Button2.Text = "Lọc";
-            // 
-            // btn_taitep
-            // 
-            this.btn_taitep.BorderColor = System.Drawing.Color.Gray;
-            this.btn_taitep.BorderThickness = 1;
-            this.btn_taitep.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btn_taitep.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btn_taitep.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btn_taitep.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btn_taitep.FillColor = System.Drawing.Color.Transparent;
-            this.btn_taitep.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.btn_taitep.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btn_taitep.Image = ((System.Drawing.Image)(resources.GetObject("btn_taitep.Image")));
-            this.btn_taitep.ImageSize = new System.Drawing.Size(30, 30);
-            this.btn_taitep.Location = new System.Drawing.Point(715, 12);
-            this.btn_taitep.Name = "btn_taitep";
-            this.btn_taitep.Size = new System.Drawing.Size(63, 37);
-            this.btn_taitep.TabIndex = 5;
             // 
             // frm_danhsachbenhnhan
             // 
